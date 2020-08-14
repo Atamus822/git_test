@@ -1,0 +1,1 @@
+This is Atamus' first git project!
